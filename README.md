@@ -25,8 +25,10 @@
 </a>
 </div>
 
-<details>
-  <summary><h3>Tech Stack</h3></summary>
+
+<br><br><br><br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=3000&pause=1500&color=FFFFFF&width=500&lines=Tech+Stacks)](https://git.io/typing-svg)
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
@@ -44,14 +46,14 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=nasm&logoColor=white)
-</details>
   
-<details>
-  <summary><h3>GitHub stats</h3></summary>
+<br><br><br><br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=3000&pause=1500&color=FFFFFF&width=500&lines=GitHub+Stats)](https://git.io/typing-svg)
 <br>
 <p>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Harishankar's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=xponent-dmg&theme=nord&hide_border=true&short_numbers=true"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=xponent-dmg&theme=nord&hide_border=true&short_numbers=true"/>
   </a>
 </p>
 
@@ -61,20 +63,26 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="harishankar's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=xponent-dmg&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=2E3440&title_color=88C0D0&icon_color=81A1C1" height="192px"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Harishankar's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=xponent-dmg&langs_count=8&layout=compact&theme=nord&hide_border=true" height="192px"/></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </details>
+  <br>
+  <br>
+> [!NOTE]
+> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
----
-
-<div align="center">
   
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord)
+<br>
+
+
+<br>
+
+<div align="center" width="100%">
+  
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&width=1200)
 </div>
 
 
-[![](https://visitcount.itsvg.in/api?id=xponent-dmg&icon=3&color=0)](https://visitcount.itsvg.in)
-
 > [!TIP]  
 > <a href="https://drive.google.com/drive/folders/1hJGhQTtzDUzMqRtoIQUx7QTLtCN726ZK?usp=sharing" download>Download my resume</a>
+
+<br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" alt="footer"/>

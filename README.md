@@ -28,7 +28,7 @@
 
 <br><br><br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=3000&pause=1500&color=FFFFFF&width=500&lines=Tech+Stacks)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1500&color=FFFFFF&width=500&lines=Tech+Stacks)](https://git.io/typing-svg)
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) 
@@ -49,7 +49,7 @@
   
 <br><br><br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=32&duration=3000&pause=1500&color=FFFFFF&width=500&lines=GitHub+Stats)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1500&color=FFFFFF&width=500&lines=GitHub+Stats)](https://git.io/typing-svg)
 <br>
 <p>
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">

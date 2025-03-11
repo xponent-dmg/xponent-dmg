@@ -10,17 +10,17 @@
 <a href="">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="">
+<a href="https://www.instagram.com/xponent.dmg/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/mahadev-k-anil-328baa224/">
+<a href="https://www.linkedin.com/in/harishankar-r-aa5319328/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />
 </a>
 
-<a href="https://medium.com/@rhythmhead97">
+<a href="https://medium.com/@harishankar.r2102">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
-<a href="https://stackoverflow.com/users/22573471/mahadev-anil">
+<a href="">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
 </div>

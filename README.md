@@ -26,7 +26,7 @@
 </div>
 
 
-<br><br><br><br>
+<br><br><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1500&color=FFFFFF&width=500&lines=Tech+Stacks)](https://git.io/typing-svg)
 
@@ -47,7 +47,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge&logo=nasm&logoColor=white)
   
-<br><br><br><br>
+<br><br><br>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&duration=3000&pause=1500&color=FFFFFF&width=500&lines=GitHub+Stats)](https://git.io/typing-svg)
 <br>

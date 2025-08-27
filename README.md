@@ -81,7 +81,7 @@
 
 
 > [!TIP]  
-> <a href="https://drive.google.com/file/d/1YcnxPtdqibqkEIAwAom1gZAdy7xRZK5o/view?usp=drivesdk" download>Download my resume</a>
+> <a href="https://drive.google.com/file/d/1aaHwp9AlXFcQyuMn4mKO5v1Emoj7bVMn/view?usp=drive_link" download>Download my resume</a>
 
 <br>
 
